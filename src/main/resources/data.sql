@@ -1,0 +1,12 @@
+INSERT INTO lista (id, titulo) VALUES (1, 'SALSA');
+INSERT INTO lista (id, titulo) VALUES (2, 'REGUETON');
+INSERT INTO lista (id, titulo) VALUES (3, 'ROCK');
+INSERT INTO cancion (id, titulo, artista, album, anno, lista_id) VALUES (1, 'cancion salsa 1', 'artista salsa 1', 'album salsa 1', '2000', 1);
+INSERT INTO cancion (id, titulo, artista, album, anno, lista_id) VALUES (2, 'cancion salsa 2', 'artista salsa 2', 'album salsa 2', '2000', 1);
+INSERT INTO cancion (id, titulo, artista, album, anno, lista_id) VALUES (3, 'cancion salsa 3', 'artista salsa 3', 'album salsa 3', '2000', 1);
+INSERT INTO cancion (id, titulo, artista, album, anno, lista_id) VALUES (4, 'cancion regueton 1', 'artista regueton 1', 'album regueton 1', '2000', 2);
+INSERT INTO cancion (id, titulo, artista, album, anno, lista_id) VALUES (5, 'cancion regueton 2', 'artista regueton 2', 'album regueton 2', '2000', 2);
+INSERT INTO cancion (id, titulo, artista, album, anno, lista_id) VALUES (6, 'cancion regueton 3', 'artista regueton 3', 'album regueton 3', '2000', 2);
+INSERT INTO cancion (id, titulo, artista, album, anno, lista_id) VALUES (7, 'cancion rock 1', 'artista rock 1', 'album rock 1', '2000', 3);
+INSERT INTO cancion (id, titulo, artista, album, anno, lista_id) VALUES (8, 'cancion rock 2', 'artista rock 2', 'album rock 2', '2000', 3);
+INSERT INTO cancion (id, titulo, artista, album, anno, lista_id) VALUES (9, 'cancion rock 3', 'artista rock 3', 'album rock 3', '2000', 3);
